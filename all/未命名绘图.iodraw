@@ -7,10 +7,7 @@
         <mxCell id="12Zp9Enf-4lOnxU0DeXi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="12Zp9Enf-4lOnxU0DeXi-2" target="12Zp9Enf-4lOnxU0DeXi-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="12Zp9Enf-4lOnxU0DeXi-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="12Zp9Enf-4lOnxU0DeXi-2" target="12Zp9Enf-4lOnxU0DeXi-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <object label="Actor" 学生="" id="12Zp9Enf-4lOnxU0DeXi-2">
+        <object label="学生" 学生="" id="12Zp9Enf-4lOnxU0DeXi-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="210" y="250" width="30" height="60" as="geometry" />
           </mxCell>
@@ -42,11 +39,6 @@
             <mxPoint x="450" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="Actor" 学生="" id="12Zp9Enf-4lOnxU0DeXi-18">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="210" y="390" width="30" height="60" as="geometry" />
-          </mxCell>
-        </object>
       </root>
     </mxGraphModel>
   </diagram>
