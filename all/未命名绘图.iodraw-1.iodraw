@@ -19,7 +19,7 @@
           <mxGeometry y="108" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="rYwwA3TkhBHpazy4zLgo-13" value="student" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="397" width="160" height="186" as="geometry" />
+          <mxGeometry x="430" y="399" width="160" height="186" as="geometry" />
         </mxCell>
         <mxCell id="rYwwA3TkhBHpazy4zLgo-14" value="+userName: String&lt;div&gt;+password: String&lt;/div&gt;&lt;div&gt;+name: String&lt;/div&gt;&lt;div&gt;+age: int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rYwwA3TkhBHpazy4zLgo-13">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
