@@ -75,7 +75,7 @@
         <mxCell id="Mqd72EhRo-kBNnpF1VKr-0" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="650" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mqd72EhRo-kBNnpF1VKr-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Mqd72EhRo-kBNnpF1VKr-5" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
