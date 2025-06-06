@@ -65,7 +65,7 @@
         <mxCell id="rYwwA3TkhBHpazy4zLgo-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="rYwwA3TkhBHpazy4zLgo-32">
           <mxGeometry y="100" width="160" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="rYwwA3TkhBHpazy4zLgo-35" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rYwwA3TkhBHpazy4zLgo-32">
+        <mxCell id="rYwwA3TkhBHpazy4zLgo-35" value="+add(String)&lt;div&gt;+setGrade(iint)&lt;/div&gt;&lt;div&gt;+getGrade()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rYwwA3TkhBHpazy4zLgo-32">
           <mxGeometry y="118" width="160" height="72" as="geometry" />
         </mxCell>
       </root>
