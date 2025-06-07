@@ -139,8 +139,11 @@
             <mxPoint x="760" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SUkt7tb9enE4b_4531As-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SUkt7tb9enE4b_4531As-17" value="管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="775" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SUkt7tb9enE4b_4531As-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="370" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
