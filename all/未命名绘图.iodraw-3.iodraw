@@ -62,8 +62,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPwLzKQQ9Aa7kemgB93k-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="120" height="80" as="geometry" />
+        <mxCell id="pPwLzKQQ9Aa7kemgB93k-15" value="角色管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
