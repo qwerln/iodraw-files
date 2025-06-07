@@ -13,6 +13,9 @@
         <mxCell id="pPwLzKQQ9Aa7kemgB93k-2" value="学生管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pPwLzKQQ9Aa7kemgB93k-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPwLzKQQ9Aa7kemgB93k-3" target="pPwLzKQQ9Aa7kemgB93k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pPwLzKQQ9Aa7kemgB93k-3" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="80" as="geometry" />
         </mxCell>
@@ -58,6 +61,9 @@
             <mxPoint x="440" y="220" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pPwLzKQQ9Aa7kemgB93k-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
