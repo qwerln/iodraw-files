@@ -13,11 +13,11 @@
         <mxCell id="pPwLzKQQ9Aa7kemgB93k-2" value="学生管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pPwLzKQQ9Aa7kemgB93k-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pPwLzKQQ9Aa7kemgB93k-3" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pPwLzKQQ9Aa7kemgB93k-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="430" width="120" height="80" as="geometry" />
+        <mxCell id="pPwLzKQQ9Aa7kemgB93k-4" value="授课信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pPwLzKQQ9Aa7kemgB93k-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pPwLzKQQ9Aa7kemgB93k-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
