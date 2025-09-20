@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="k68o0mfLE6i7ua4pRhvn-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="k68o0mfLE6i7ua4pRhvn-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="50" height="90" as="geometry" />
+          <mxGeometry x="110" y="280" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k68o0mfLE6i7ua4pRhvn-4" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="80" as="geometry" />
