@@ -28,6 +28,18 @@
         <mxCell id="k68o0mfLE6i7ua4pRhvn-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="k68o0mfLE6i7ua4pRhvn-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.057;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="k68o0mfLE6i7ua4pRhvn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="310" as="sourcePoint" />
+            <mxPoint x="220" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k68o0mfLE6i7ua4pRhvn-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="330" as="sourcePoint" />
+            <mxPoint x="220" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
