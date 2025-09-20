@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k68o0mfLE6i7ua4pRhvn-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="50" height="90" as="geometry" />
+          <mxGeometry x="140" y="280" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k68o0mfLE6i7ua4pRhvn-4" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="80" as="geometry" />
@@ -31,7 +31,7 @@
             <mxPoint x="220" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="k68o0mfLE6i7ua4pRhvn-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="k68o0mfLE6i7ua4pRhvn-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="310" as="sourcePoint" />
             <mxPoint x="413.56215852077935" y="151.96830442888975" as="targetPoint" />
