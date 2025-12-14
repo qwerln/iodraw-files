@@ -9,10 +9,10 @@
             <mxGeometry x="180" y="220" width="50" height="90" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-0" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXKts0RqNWXS5sarFS8H-0" value="购买商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-1" value="帖子管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXKts0RqNWXS5sarFS8H-1" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-2" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
