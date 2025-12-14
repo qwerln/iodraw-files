@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <object label="管理员" 学生="" id="12Zp9Enf-4lOnxU0DeXi-2">
+        <object label="学生" 学生="" id="12Zp9Enf-4lOnxU0DeXi-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="180" y="220" width="50" height="90" as="geometry" />
           </mxCell>
