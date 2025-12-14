@@ -10,6 +10,9 @@
         <mxCell id="JXKts0RqNWXS5sarFS8H-32" value="二手交易平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JXKts0RqNWXS5sarFS8H-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JXKts0RqNWXS5sarFS8H-33" target="JXKts0RqNWXS5sarFS8H-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-33" value="卖家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -93,7 +96,7 @@
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="JXKts0RqNWXS5sarFS8H-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="sourcePoint" />
             <mxPoint x="140" y="410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
