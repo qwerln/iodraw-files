@@ -6,7 +6,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <object label="学生" 学生="" id="12Zp9Enf-4lOnxU0DeXi-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="180" y="220" width="50" height="90" as="geometry" />
+            <mxGeometry x="140" y="220" width="50" height="90" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="JXKts0RqNWXS5sarFS8H-0" value="购买商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -21,7 +21,7 @@
         <mxCell id="JXKts0RqNWXS5sarFS8H-3" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-4" value="日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXKts0RqNWXS5sarFS8H-4" value="购物车" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-5" value="浏览商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -49,6 +49,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="310" as="sourcePoint" />
             <mxPoint x="320" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.039;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="12Zp9Enf-4lOnxU0DeXi-2" target="JXKts0RqNWXS5sarFS8H-3">
