@@ -86,7 +86,7 @@
             <mxPoint x="120" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXKts0RqNWXS5sarFS8H-22" value="卖家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-23" value="发布商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -97,6 +97,12 @@
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-25" value="买家交流" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JXKts0RqNWXS5sarFS8H-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.939;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JXKts0RqNWXS5sarFS8H-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="sourcePoint" />
+            <mxPoint x="370" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
