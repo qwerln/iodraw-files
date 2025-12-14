@@ -6,7 +6,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <object label="学生" 学生="" id="12Zp9Enf-4lOnxU0DeXi-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="40" y="370" width="40" height="60" as="geometry" />
+            <mxGeometry x="10" y="550" width="40" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="JXKts0RqNWXS5sarFS8H-0" value="购买商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -74,7 +74,7 @@
         <mxCell id="JXKts0RqNWXS5sarFS8H-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXKts0RqNWXS5sarFS8H-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="12Zp9Enf-4lOnxU0DeXi-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="330" as="sourcePoint" />
             <mxPoint x="120" y="280" as="targetPoint" />
