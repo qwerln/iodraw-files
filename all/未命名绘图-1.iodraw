@@ -71,13 +71,8 @@
         <mxCell id="JXKts0RqNWXS5sarFS8H-46" value="购买商品" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="390" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JXKts0RqNWXS5sarFS8H-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1181.3333129882812" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-47" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="630" width="60" height="120" as="geometry" />
+          <mxGeometry x="1030" y="390" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-48" value="加入购物车" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="390" width="60" height="120" as="geometry" />
@@ -117,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-63" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="390" width="60" height="120" as="geometry" />
+          <mxGeometry x="940" y="390" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JXKts0RqNWXS5sarFS8H-64" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="390" width="60" height="120" as="geometry" />
