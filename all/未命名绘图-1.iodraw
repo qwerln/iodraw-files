@@ -13,9 +13,9 @@
         <mxCell id="JXKts0RqNWXS5sarFS8H-33" value="卖家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JXKts0RqNWXS5sarFS8H-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JXKts0RqNWXS5sarFS8H-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="197.5" y="270" as="sourcePoint" />
+            <mxPoint x="380" y="330" as="sourcePoint" />
             <mxPoint x="42.5" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="197.5" y="330" />
