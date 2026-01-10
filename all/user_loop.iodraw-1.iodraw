@@ -50,12 +50,13 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-1" value="选择并进入商品详情页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-3" target="cbsovMwCgq5beFlSjoiv-4">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="170" as="targetPoint" />
+            <mxPoint x="427.5999999999999" y="173.82" as="targetPoint" />
+            <mxPoint x="450" y="366.2" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="341" y="370" />
-              <mxPoint x="341" y="178" />
+              <mxPoint x="341" y="366.2" />
+              <mxPoint x="341" y="174.2" />
             </Array>
           </mxGeometry>
         </mxCell>
