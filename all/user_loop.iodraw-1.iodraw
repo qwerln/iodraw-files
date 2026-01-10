@@ -111,6 +111,9 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-12" value="加入购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-19" target="3LhzK59xxrKDF6dlTfWl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-19" value="下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="640" width="80" height="55" as="geometry" />
         </mxCell>
@@ -119,6 +122,9 @@
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-20" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="570" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-30" target="3LhzK59xxrKDF6dlTfWl-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-30" value="填写收货地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="720" width="100" height="50" as="geometry" />
