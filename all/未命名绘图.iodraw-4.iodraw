@@ -56,6 +56,9 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-14" value="商品管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="504.5" y="350" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-16" target="EpsjPJOocXQbHfDVygdZ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-16" value="角色权限管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="80" height="80" as="geometry" />
         </mxCell>
@@ -84,7 +87,10 @@
           <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="484.5" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="484.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-32" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
