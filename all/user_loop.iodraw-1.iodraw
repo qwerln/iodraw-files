@@ -16,8 +16,20 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-56" value="跳转至商品管理页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-67" target="3LhzK59xxrKDF6dlTfWl-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-67" value="管理员登录后台系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-68" target="3LhzK59xxrKDF6dlTfWl-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
