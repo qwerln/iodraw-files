@@ -47,7 +47,7 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-14" value="商品管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="504.5" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-16" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-16" value="角色权限管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
