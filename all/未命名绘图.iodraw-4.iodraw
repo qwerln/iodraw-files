@@ -61,7 +61,7 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-16" value="提交注册请求" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-18" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-18" value="登录验证成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
