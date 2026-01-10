@@ -24,8 +24,14 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-7" value="选择管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-9" target="EpsjPJOocXQbHfDVygdZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-9" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-11" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
