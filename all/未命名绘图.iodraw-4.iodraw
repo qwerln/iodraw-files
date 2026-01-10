@@ -35,6 +35,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-7" value="选择管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -133,7 +138,7 @@
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="260" as="targetPoint" />
+            <mxPoint x="120" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="660" />
               <mxPoint x="400" y="661" />
