@@ -58,7 +58,7 @@
           <mxGeometry x="150" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-79" value="显示用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="690" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-80" target="3LhzK59xxrKDF6dlTfWl-81">
           <mxGeometry relative="1" as="geometry" />
@@ -135,7 +135,7 @@
           <mxGeometry x="600" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-90" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="435" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
