@@ -86,22 +86,22 @@
           <mxGeometry x="450" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-11" value="确认订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="615" width="80" height="55" as="geometry" />
+          <mxGeometry x="330" y="630" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-12" target="3LhzK59xxrKDF6dlTfWl-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-12" value="加入购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="530" width="80" height="50" as="geometry" />
+          <mxGeometry x="560" y="500" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-19" value="确认订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="670" width="80" height="55" as="geometry" />
+          <mxGeometry x="560" y="630" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-20" target="3LhzK59xxrKDF6dlTfWl-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-20" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="80" height="50" as="geometry" />
+          <mxGeometry x="560" y="570" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
