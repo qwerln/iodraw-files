@@ -12,6 +12,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-126" target="3LhzK59xxrKDF6dlTfWl-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-126" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,6 +37,9 @@
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-130" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-135" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
