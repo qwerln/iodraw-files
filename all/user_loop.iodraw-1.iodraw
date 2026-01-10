@@ -31,7 +31,10 @@
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="345.5999755859375" as="targetPoint" />
+            <mxPoint x="340" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221" y="960" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-32" value="继续浏览？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
