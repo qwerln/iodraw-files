@@ -38,7 +38,7 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-7" value="选择管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-9" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-9" value="订单管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-11" value="用户管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
