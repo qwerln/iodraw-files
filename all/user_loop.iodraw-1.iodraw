@@ -148,8 +148,11 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-90" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-117" target="3LhzK59xxrKDF6dlTfWl-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-117" value="查看订单详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="680" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
