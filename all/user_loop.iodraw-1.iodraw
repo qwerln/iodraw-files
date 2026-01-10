@@ -107,6 +107,12 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-158" value="评论用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="130" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-161" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="345" as="sourcePoint" />
+            <mxPoint x="190.71067811865476" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
