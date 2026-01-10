@@ -98,13 +98,9 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-22" value="查看/删除订单信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-24">
+        <mxCell id="cbsovMwCgq5beFlSjoiv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="545" y="690" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="545" y="610" />
-              <mxPoint x="546" y="610" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-24" value="修改个人信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
