@@ -245,7 +245,7 @@
             <mxPoint x="420" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-194" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-194" value="主图URL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="490" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-195" value="商品价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -275,7 +275,7 @@
             <mxPoint x="620" y="690.7106781186548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-203" value="" style="endArrow=none;html=1;rounded=0;entryX=0.037;entryY=0.196;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-129" target="3LhzK59xxrKDF6dlTfWl-197">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-203" value="" style="endArrow=none;html=1;rounded=0;entryX=0.084;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-129" target="3LhzK59xxrKDF6dlTfWl-197">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="600" as="sourcePoint" />
             <mxPoint x="490" y="550" as="targetPoint" />
