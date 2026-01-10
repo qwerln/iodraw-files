@@ -36,11 +36,17 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-4" value="选择操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-11" target="E9KRA-hslAodOgoDkvA_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-11" value="输入用户名和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-14" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
