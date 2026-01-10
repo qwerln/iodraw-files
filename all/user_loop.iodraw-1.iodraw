@@ -7,6 +7,9 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-2" value="用户进入商品发布页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-41" value="填写商品标题、价格、描述等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
