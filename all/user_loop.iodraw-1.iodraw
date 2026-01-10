@@ -60,7 +60,7 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-83" value="保存用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="800" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-84" value="操作成功提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="910" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
