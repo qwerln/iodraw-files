@@ -157,7 +157,7 @@
             <mxPoint x="470" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-54" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
