@@ -133,7 +133,11 @@
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="660" as="targetPoint" />
+            <mxPoint x="120" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="660" />
+              <mxPoint x="400" y="661" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-52" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EpsjPJOocXQbHfDVygdZ-51">
