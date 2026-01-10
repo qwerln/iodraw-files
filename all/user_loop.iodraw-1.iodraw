@@ -57,7 +57,7 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-82" value="信息校验通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-83" value="保存用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="800" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
