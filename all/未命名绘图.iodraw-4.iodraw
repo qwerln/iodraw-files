@@ -118,6 +118,9 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-27" value="返回登录页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="670" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-29" target="E9KRA-hslAodOgoDkvA_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-29" value="返回注册页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="670" width="80" height="60" as="geometry" />
         </mxCell>
