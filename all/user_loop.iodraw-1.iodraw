@@ -239,11 +239,17 @@
             <mxPoint x="420" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-193" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-193" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-126" target="3LhzK59xxrKDF6dlTfWl-187">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="580" as="sourcePoint" />
             <mxPoint x="420" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-194" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-195" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
