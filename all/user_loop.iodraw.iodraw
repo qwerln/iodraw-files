@@ -41,7 +41,7 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-9" target="cbsovMwCgq5beFlSjoiv-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-9" value="订单管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cbsovMwCgq5beFlSjoiv-9" value="修改个人信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-11" target="cbsovMwCgq5beFlSjoiv-20">
