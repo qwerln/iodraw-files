@@ -64,6 +64,9 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-18" target="E9KRA-hslAodOgoDkvA_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-18" target="E9KRA-hslAodOgoDkvA_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-18" value="登录验证成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="80" height="80" as="geometry" />
         </mxCell>
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="570" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="580" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
