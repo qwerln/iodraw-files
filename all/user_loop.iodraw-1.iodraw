@@ -12,6 +12,9 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-2" value="用户注册或登录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-4" target="3LhzK59xxrKDF6dlTfWl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-4" value="浏览商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,15 +29,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cbsovMwCgq5beFlSjoiv-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="150" y="840" />
-              <mxPoint x="150" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-32" value="继续浏览？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="504.5" y="800" width="80" height="80" as="geometry" />
         </mxCell>
@@ -47,8 +41,8 @@
             <mxPoint x="560" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-50" value="确认收货" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
