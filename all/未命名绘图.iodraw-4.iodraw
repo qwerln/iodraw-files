@@ -131,8 +131,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44" target="EpsjPJOocXQbHfDVygdZ-50">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-52" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EpsjPJOocXQbHfDVygdZ-51">
           <mxGeometry x="-0.1467" y="-2" relative="1" as="geometry">
@@ -148,11 +150,8 @@
             <mxPoint x="470" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-50" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="504.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
