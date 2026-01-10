@@ -47,7 +47,7 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-11" target="cbsovMwCgq5beFlSjoiv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-11" value="用户管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cbsovMwCgq5beFlSjoiv-11" value="搜索商品" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-13" target="cbsovMwCgq5beFlSjoiv-24">
