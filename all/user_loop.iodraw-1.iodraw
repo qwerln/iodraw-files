@@ -72,10 +72,11 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-81" value="提交表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-82">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="790" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-82" target="3LhzK59xxrKDF6dlTfWl-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-82" target="3LhzK59xxrKDF6dlTfWl-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-82" value="信息校验通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="80" height="80" as="geometry" />
