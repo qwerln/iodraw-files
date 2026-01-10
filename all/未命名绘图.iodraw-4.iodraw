@@ -79,7 +79,7 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-20" value="注册验证成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-22" value="进入系统首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-24" target="E9KRA-hslAodOgoDkvA_-27">
