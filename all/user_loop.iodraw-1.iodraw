@@ -30,16 +30,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-32" value="继续浏览？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="504.5" y="800" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-34" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="484.5" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="cbsovMwCgq5beFlSjoiv-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="545" y="720" as="sourcePoint" />
-            <mxPoint x="560" y="680" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="430" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-1" target="3LhzK59xxrKDF6dlTfWl-3">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +86,7 @@
           <mxGeometry x="450" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-11" value="确认订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="670" width="80" height="55" as="geometry" />
+          <mxGeometry x="330" y="615" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-12" target="3LhzK59xxrKDF6dlTfWl-20">
           <mxGeometry relative="1" as="geometry" />
