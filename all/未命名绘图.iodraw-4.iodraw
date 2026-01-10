@@ -121,7 +121,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-44" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-44" value="是否继续操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
