@@ -4,63 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="50" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-4" value="二手商品发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-5" value="浏览沟通" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-6" value="购物车" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-7" value="发布管理帖子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="370" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-8" value="浏览商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="10" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-9" value="收藏点赞" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="460" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.057;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="k68o0mfLE6i7ua4pRhvn-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="220" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="k68o0mfLE6i7ua4pRhvn-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="413.56215852077935" y="151.96830442888975" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="k68o0mfLE6i7ua4pRhvn-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="220" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="340" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="340" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k68o0mfLE6i7ua4pRhvn-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="340" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
