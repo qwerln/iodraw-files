@@ -98,11 +98,8 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-82" value="信息校验通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-83" target="3LhzK59xxrKDF6dlTfWl-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-83" value="保存商品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="800" width="90" height="60" as="geometry" />
+          <mxGeometry x="290" y="767" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-84" target="3LhzK59xxrKDF6dlTfWl-90">
           <mxGeometry relative="1" as="geometry" />
