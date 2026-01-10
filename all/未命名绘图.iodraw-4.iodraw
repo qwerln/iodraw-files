@@ -31,7 +31,7 @@
             <Array as="points">
               <mxPoint x="490" y="290" />
               <mxPoint x="490" y="330" />
-              <mxPoint x="340" y="330" />
+              <mxPoint x="270" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,15 +42,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-9" value="订单管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-11" target="EpsjPJOocXQbHfDVygdZ-24">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="340" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-11" value="用户管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="80" height="80" as="geometry" />
@@ -80,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-24" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="520" width="120" height="60" as="geometry" />
