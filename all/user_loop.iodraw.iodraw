@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="690" as="targetPoint" />
+            <mxPoint x="400" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="585" />
               <mxPoint x="401" y="585" />
@@ -100,7 +100,7 @@
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="690" as="targetPoint" />
+            <mxPoint x="545" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-24" value="修改个人信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
