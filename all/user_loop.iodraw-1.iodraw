@@ -45,7 +45,7 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-78" value="输入查询条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-79" value="显示用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
