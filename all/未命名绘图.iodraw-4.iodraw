@@ -117,7 +117,7 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-31" target="E9KRA-hslAodOgoDkvA_-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-31" value="创建账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -126,7 +126,7 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-34" target="E9KRA-hslAodOgoDkvA_-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-34" value="自动登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="670" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
