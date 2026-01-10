@@ -50,6 +50,9 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-11" value="用户管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-14" target="EpsjPJOocXQbHfDVygdZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-14" value="商品管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="504.5" y="350" width="80" height="80" as="geometry" />
         </mxCell>
@@ -70,7 +73,7 @@
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EpsjPJOocXQbHfDVygdZ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="680" y="330" as="sourcePoint" />
             <mxPoint x="590" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -79,6 +82,9 @@
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="484.5" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
