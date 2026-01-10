@@ -16,8 +16,14 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-41" value="填写商品标题、价格、描述等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-43" target="3LhzK59xxrKDF6dlTfWl-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-43" value="上传商品图片" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-45" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
