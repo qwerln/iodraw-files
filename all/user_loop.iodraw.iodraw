@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="710" as="targetPoint" />
+            <mxPoint x="400" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="585" />
               <mxPoint x="401" y="585" />
@@ -108,7 +108,7 @@
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="590" as="targetPoint" />
+            <mxPoint x="680" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-26" value="发布/删除商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -180,6 +180,12 @@
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-44" value="下单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbsovMwCgq5beFlSjoiv-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="760" as="sourcePoint" />
+            <mxPoint x="540" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
