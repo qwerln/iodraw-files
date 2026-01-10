@@ -121,10 +121,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44" target="EpsjPJOocXQbHfDVygdZ-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-53" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EpsjPJOocXQbHfDVygdZ-49">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-53" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EpsjPJOocXQbHfDVygdZ-49">
           <mxGeometry x="-0.3533" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -146,11 +148,11 @@
             <mxPoint x="470" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-50" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
