@@ -114,10 +114,10 @@
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="590" as="sourcePoint" />
-            <mxPoint x="680" y="590" as="targetPoint" />
+            <mxPoint x="400" y="590" as="sourcePoint" />
+            <mxPoint x="810" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="590" />
+              <mxPoint x="610" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -152,7 +152,7 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="590" as="sourcePoint" />
-            <mxPoint x="470" y="620" as="targetPoint" />
+            <mxPoint x="480" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-34" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
