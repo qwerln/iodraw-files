@@ -41,8 +41,14 @@
             <mxPoint x="560" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-1" target="3LhzK59xxrKDF6dlTfWl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-1" value="选择并进入商品详情页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-3" value="购买方式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
