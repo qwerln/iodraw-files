@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-32" value="继续浏览？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-34" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1140" width="120" height="60" as="geometry" />
@@ -129,14 +129,17 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-30" value="填写收货地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="720" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-31" target="cbsovMwCgq5beFlSjoiv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-31" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="880" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-32" target="3LhzK59xxrKDF6dlTfWl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-32" value="确认订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="802" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="790" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
