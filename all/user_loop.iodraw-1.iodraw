@@ -66,8 +66,16 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-80" value="填写用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-81" target="3LhzK59xxrKDF6dlTfWl-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-81" value="提交表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-82" value="信息校验通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="80" height="80" as="geometry" />
