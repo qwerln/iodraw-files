@@ -83,10 +83,10 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-24" value="用户信息增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-26" value="订单处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-30" value="商品上下架管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484.5" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-32" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
