@@ -137,7 +137,7 @@
             <mxPoint x="380" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-166" value="评论用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-166" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="60" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-167" value="评论用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -152,7 +152,7 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-170" value="评论用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="80" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-171" value="评论用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-171" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
