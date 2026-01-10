@@ -86,8 +86,18 @@
         <mxCell id="EpsjPJOocXQbHfDVygdZ-24" value="用户信息增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-26" value="订单处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.5" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-30" value="商品上下架管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484.5" y="470" width="120" height="60" as="geometry" />
