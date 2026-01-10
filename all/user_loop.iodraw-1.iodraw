@@ -59,7 +59,7 @@
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="3LhzK59xxrKDF6dlTfWl-90">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="1031" as="sourcePoint" />
+            <mxPoint x="220" y="1030" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-79" value="显示用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
