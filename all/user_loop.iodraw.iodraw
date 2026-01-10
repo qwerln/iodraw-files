@@ -139,7 +139,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-32" value="是否继续操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbsovMwCgq5beFlSjoiv-32" value="继续浏览？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504.5" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-34" value="退出系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
