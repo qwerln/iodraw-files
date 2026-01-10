@@ -53,13 +53,13 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-13" target="cbsovMwCgq5beFlSjoiv-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-13" value="商品管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cbsovMwCgq5beFlSjoiv-13" value="查看订单" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="504.5" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-15" target="cbsovMwCgq5beFlSjoiv-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cbsovMwCgq5beFlSjoiv-15" value="角色权限管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cbsovMwCgq5beFlSjoiv-15" value="管理我的商品" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
