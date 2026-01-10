@@ -110,6 +110,11 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-24" value="提示失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="570" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-27" value="返回登录页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="670" width="80" height="60" as="geometry" />
         </mxCell>
@@ -127,6 +132,11 @@
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-31" value="创建账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E9KRA-hslAodOgoDkvA_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="900" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-33" value="进入系统首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="780" width="80" height="60" as="geometry" />
