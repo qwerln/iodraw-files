@@ -121,6 +121,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-44" target="EpsjPJOocXQbHfDVygdZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-44" value="是否继续操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="620" width="80" height="80" as="geometry" />
         </mxCell>
@@ -129,6 +132,9 @@
             <mxPoint x="470" y="590" as="sourcePoint" />
             <mxPoint x="470" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
