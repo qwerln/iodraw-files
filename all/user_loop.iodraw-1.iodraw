@@ -311,10 +311,16 @@
         <mxCell id="3LhzK59xxrKDF6dlTfWl-211" value="下单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="840" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3LhzK59xxrKDF6dlTfWl-214" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-214" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="3LhzK59xxrKDF6dlTfWl-207">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="680" as="sourcePoint" />
             <mxPoint x="430" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3LhzK59xxrKDF6dlTfWl-215" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="3LhzK59xxrKDF6dlTfWl-135">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="800" as="sourcePoint" />
+            <mxPoint x="480" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
