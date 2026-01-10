@@ -192,19 +192,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-182" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="540" width="90" height="50" as="geometry" />
+          <mxGeometry x="10" y="490" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-183" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="600" width="90" height="50" as="geometry" />
+          <mxGeometry x="20" y="550" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-184" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="660" width="90" height="50" as="geometry" />
+          <mxGeometry x="50" y="610" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-185" value="用户昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="720" width="90" height="50" as="geometry" />
+          <mxGeometry x="100" y="670" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3LhzK59xxrKDF6dlTfWl-186" value="用户头像URL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="750" width="90" height="50" as="geometry" />
+          <mxGeometry x="170" y="720" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
