@@ -4,17 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-1" target="EpsjPJOocXQbHfDVygdZ-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EpsjPJOocXQbHfDVygdZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EpsjPJOocXQbHfDVygdZ-1" target="EpsjPJOocXQbHfDVygdZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-1" value="管理员登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpsjPJOocXQbHfDVygdZ-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EpsjPJOocXQbHfDVygdZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
