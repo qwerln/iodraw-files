@@ -162,6 +162,10 @@
         <mxCell id="cbsovMwCgq5beFlSjoiv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbsovMwCgq5beFlSjoiv-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="610" />
+              <mxPoint x="340" y="611" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cbsovMwCgq5beFlSjoiv-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cbsovMwCgq5beFlSjoiv-40">
