@@ -19,18 +19,13 @@
           <mxGeometry x="300" y="140" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="70" height="40" as="geometry" />
+          <mxGeometry x="470" y="570" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-6" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="559.5999755859375" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="270" y="590" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="510" width="70" height="40" as="geometry" />
+          <mxGeometry x="80" y="570" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-8" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="550" width="70" height="40" as="geometry" />
