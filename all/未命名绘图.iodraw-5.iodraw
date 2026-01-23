@@ -45,7 +45,7 @@
           <mxGeometry x="430" y="135" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-102" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="60" width="68" height="40" as="geometry" />
+          <mxGeometry x="178" y="50" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-103" value="头像&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22ID%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22212%22%20y%3D%2250%22%20width%3D%2268%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="190" width="68" height="40" as="geometry" />
@@ -337,6 +337,9 @@
           <mxGeometry x="-0.133" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-179" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
