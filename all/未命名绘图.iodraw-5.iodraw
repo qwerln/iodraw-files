@@ -174,7 +174,7 @@
         <mxCell id="TafaGcISz1YZVgbao5lO-129" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-130" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TafaGcISz1YZVgbao5lO-130" value="评论ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="212" y="310" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-131" value="商品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
