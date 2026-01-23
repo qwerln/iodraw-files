@@ -60,7 +60,7 @@
           <mxGeometry x="272" y="30" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-107" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202" y="200" width="68" height="40" as="geometry" />
+          <mxGeometry x="150" y="240" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-97" target="TafaGcISz1YZVgbao5lO-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -263,7 +263,7 @@
           <mxGeometry x="110" y="480" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-162" value="收货人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="440" width="68" height="40" as="geometry" />
+          <mxGeometry x="42" y="450" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-163" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="68" height="40" as="geometry" />
@@ -307,7 +307,7 @@
             <mxPoint x="310" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-171" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TafaGcISz1YZVgbao5lO-158">
+        <mxCell id="TafaGcISz1YZVgbao5lO-171" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-5" target="TafaGcISz1YZVgbao5lO-158">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="610" as="sourcePoint" />
             <mxPoint x="90" y="560" as="targetPoint" />
