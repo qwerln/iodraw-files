@@ -253,10 +253,10 @@
         <mxCell id="TafaGcISz1YZVgbao5lO-158" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="400" width="68" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-159" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TafaGcISz1YZVgbao5lO-159" value="是否默认" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="68" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-160" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TafaGcISz1YZVgbao5lO-160" value="详细地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="182" y="470" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-161" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
