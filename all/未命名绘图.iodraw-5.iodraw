@@ -65,7 +65,7 @@
           <mxGeometry x="150" y="70" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-106" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="30" width="68" height="40" as="geometry" />
+          <mxGeometry x="272" y="30" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-107" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="200" width="68" height="40" as="geometry" />
