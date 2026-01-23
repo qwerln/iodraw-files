@@ -470,10 +470,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-209" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TafaGcISz1YZVgbao5lO-209" value="排序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="788" y="420" width="68" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-210" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TafaGcISz1YZVgbao5lO-210" value="分类级别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="380" width="68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-211" value="父ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
