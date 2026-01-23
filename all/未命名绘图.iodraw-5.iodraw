@@ -15,6 +15,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-4" target="TafaGcISz1YZVgbao5lO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="70" height="40" as="geometry" />
         </mxCell>
@@ -152,11 +155,14 @@
             <mxPoint x="580" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-48" target="TafaGcISz1YZVgbao5lO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-48" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-49" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="150" width="70" height="40" as="geometry" />
+        <mxCell id="TafaGcISz1YZVgbao5lO-49" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="360" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
