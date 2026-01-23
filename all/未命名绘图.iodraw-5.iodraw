@@ -14,7 +14,7 @@
           <mxGeometry x="132" y="630" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-8" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="590" width="70" height="40" as="geometry" />
+          <mxGeometry x="688" y="340" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-92" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="70" height="40" as="geometry" />
@@ -444,6 +444,9 @@
           <mxGeometry x="0.0734" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-204" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
