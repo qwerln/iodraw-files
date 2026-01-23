@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-128" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272" y="250" width="70" height="50" as="geometry" />
+          <mxGeometry x="280" y="250" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-129" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="370" width="70" height="40" as="geometry" />
@@ -201,6 +201,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="480" as="sourcePoint" />
             <mxPoint x="350" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-142" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-97" target="TafaGcISz1YZVgbao5lO-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="280" as="sourcePoint" />
+            <mxPoint x="420" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
