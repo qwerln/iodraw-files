@@ -27,14 +27,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-97" target="TafaGcISz1YZVgbao5lO-128">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-96" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TafaGcISz1YZVgbao5lO-95">
-          <mxGeometry x="-0.0629" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-97" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="70" height="40" as="geometry" />
         </mxCell>
@@ -160,16 +152,8 @@
             <mxPoint x="580" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-128" target="TafaGcISz1YZVgbao5lO-129">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-127" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TafaGcISz1YZVgbao5lO-126">
-          <mxGeometry x="-0.24" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-128" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="70" height="50" as="geometry" />
+          <mxGeometry x="272" y="250" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TafaGcISz1YZVgbao5lO-129" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="370" width="70" height="40" as="geometry" />
