@@ -177,6 +177,18 @@
         <mxCell id="TafaGcISz1YZVgbao5lO-130" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="212" y="210" width="68" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-131" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="220" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-132" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232" y="230" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-133" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="240" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-134" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="250" width="68" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
