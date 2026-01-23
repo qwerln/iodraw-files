@@ -62,10 +62,16 @@
         <mxCell id="TafaGcISz1YZVgbao5lO-26" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="200" width="68" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TafaGcISz1YZVgbao5lO-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="TafaGcISz1YZVgbao5lO-25">
+        <mxCell id="TafaGcISz1YZVgbao5lO-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TafaGcISz1YZVgbao5lO-4" target="TafaGcISz1YZVgbao5lO-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="350" as="sourcePoint" />
             <mxPoint x="250" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TafaGcISz1YZVgbao5lO-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
