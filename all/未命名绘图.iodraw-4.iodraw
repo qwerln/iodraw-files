@@ -45,6 +45,9 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-18" value="登录验证成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="460" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-22" target="8s3LWyco3oIBxDCs_r0V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-22" value="进入系统首页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="570" width="80" height="60" as="geometry" />
         </mxCell>
@@ -69,7 +72,7 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-2" value="账号密码正确？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
