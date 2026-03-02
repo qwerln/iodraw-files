@@ -92,8 +92,8 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-39" value="更新订单状态为已支付" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-41" value="更新订单状态为已支付" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1380" width="120" height="60" as="geometry" />
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-41" value="显示支付成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
