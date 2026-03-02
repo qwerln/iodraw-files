@@ -75,8 +75,8 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-2" value="账号密码正确？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-4" value="保存凭证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
