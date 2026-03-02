@@ -22,8 +22,20 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-14" value="创建订单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-19" target="8s3LWyco3oIBxDCs_r0V-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-19" value="保存订单至数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-21" target="8s3LWyco3oIBxDCs_r0V-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-21" value="跳转至支付页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-23" value="跳转至支付页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
