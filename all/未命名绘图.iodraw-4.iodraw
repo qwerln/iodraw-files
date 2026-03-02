@@ -34,8 +34,8 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-21" value="跳转至支付页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-23" value="跳转至支付页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-23" value="选择支付方式" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
