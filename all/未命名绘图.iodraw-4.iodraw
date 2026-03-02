@@ -21,7 +21,7 @@
             <mxPoint x="360" y="459.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-14" value="点击登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-14" value="创建订单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
