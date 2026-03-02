@@ -16,13 +16,14 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-11" value="点击立即购买" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="459.9999999999998" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-14" target="8s3LWyco3oIBxDCs_r0V-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-14" value="创建订单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-19" value="保存订单至数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
