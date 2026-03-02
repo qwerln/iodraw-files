@@ -13,6 +13,9 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-11" target="E9KRA-hslAodOgoDkvA_-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E9KRA-hslAodOgoDkvA_-11" target="E9KRA-hslAodOgoDkvA_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-11" value="点击立即购买" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -110,8 +113,8 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-45" value="更新订单状态为已取消" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-47" value="更新订单状态为已取消" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1380" width="120" height="60" as="geometry" />
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-47" value="显示支付失败" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
