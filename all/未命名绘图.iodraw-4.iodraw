@@ -57,20 +57,11 @@
         <mxCell id="E9KRA-hslAodOgoDkvA_-24" value="提示失败信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="570" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-27" target="E9KRA-hslAodOgoDkvA_-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="454" y="870" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="454" y="870" />
-              <mxPoint x="490" y="870" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-27" value="返回登录页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="670" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-2" target="8s3LWyco3oIBxDCs_r0V-4">
           <mxGeometry relative="1" as="geometry" />
