@@ -4,38 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E9KRA-hslAodOgoDkvA_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-1" target="E9KRA-hslAodOgoDkvA_-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E9KRA-hslAodOgoDkvA_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-1" value="打开登录页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E9KRA-hslAodOgoDkvA_-4" target="E9KRA-hslAodOgoDkvA_-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-9" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E9KRA-hslAodOgoDkvA_-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.6083" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E9KRA-hslAodOgoDkvA_-4" target="E9KRA-hslAodOgoDkvA_-13" edge="1">
+        <mxCell id="E9KRA-hslAodOgoDkvA_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="E9KRA-hslAodOgoDkvA_-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="645" y="190" />
               <mxPoint x="645" y="250" />
             </Array>
+            <mxPoint x="540" y="190" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-10" value="注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E9KRA-hslAodOgoDkvA_-8" vertex="1" connectable="0">
-          <mxGeometry x="-0.6536" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E9KRA-hslAodOgoDkvA_-4" value="选择操作" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-11" target="E9KRA-hslAodOgoDkvA_-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
