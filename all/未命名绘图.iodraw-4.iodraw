@@ -20,12 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-14" value="点击登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="354" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E9KRA-hslAodOgoDkvA_-18" target="E9KRA-hslAodOgoDkvA_-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="500" />
+              <mxPoint x="270" y="460" />
+              <mxPoint x="270" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,10 +44,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-18" value="登录验证成功？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-22" value="进入系统首页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="570" width="80" height="60" as="geometry" />
+          <mxGeometry x="220" y="580" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E9KRA-hslAodOgoDkvA_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9KRA-hslAodOgoDkvA_-24" target="E9KRA-hslAodOgoDkvA_-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
