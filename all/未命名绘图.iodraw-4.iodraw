@@ -80,11 +80,6 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-67" target="8s3LWyco3oIBxDCs_r0V-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="1160.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-67" value="是否添加备注？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="1030" width="120" height="80" as="geometry" />
         </mxCell>
