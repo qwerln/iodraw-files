@@ -44,13 +44,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-150" value="新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-154" target="8s3LWyco3oIBxDCs_r0V-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-154" value="点击新增" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-156" target="8s3LWyco3oIBxDCs_r0V-162">
           <mxGeometry relative="1" as="geometry" />
