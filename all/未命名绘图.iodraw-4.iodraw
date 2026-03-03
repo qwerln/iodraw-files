@@ -75,9 +75,6 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-117" value="更新状态为已支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-118" target="8s3LWyco3oIBxDCs_r0V-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-118" value="提示信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -106,6 +103,9 @@
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-131" value="取消订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-132" target="8s3LWyco3oIBxDCs_r0V-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-132" value="处理退款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1070" width="120" height="60" as="geometry" />
