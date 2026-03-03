@@ -107,6 +107,12 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-183" value="保存到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-184" value="显示错误信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-185" value="提示成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
