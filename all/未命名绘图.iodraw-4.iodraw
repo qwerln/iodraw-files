@@ -98,6 +98,10 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-129">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1190" />
+              <mxPoint x="500" y="1190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-129" value="审批通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
