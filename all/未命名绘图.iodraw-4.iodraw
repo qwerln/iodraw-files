@@ -149,7 +149,7 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-93" target="8s3LWyco3oIBxDCs_r0V-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-93" value="保存预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-93" value="创建订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-95" target="8s3LWyco3oIBxDCs_r0V-97">
@@ -159,7 +159,7 @@
           <mxGeometry x="190" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-97" value="保存预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
