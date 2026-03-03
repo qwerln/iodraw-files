@@ -105,6 +105,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-138" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8s3LWyco3oIBxDCs_r0V-137">
+          <mxGeometry x="-0.884" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-129" value="审批通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="860" width="120" height="80" as="geometry" />
         </mxCell>
