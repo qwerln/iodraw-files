@@ -59,7 +59,7 @@
           <mxGeometry x="610" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-158" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-160" target="8s3LWyco3oIBxDCs_r0V-164">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-164" value="验证通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="770" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-166" value="填写信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-166" value="保存到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-167" value="填写信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
