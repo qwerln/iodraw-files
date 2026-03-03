@@ -158,7 +158,7 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-95" value="显示预约成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-97" value="保存预约记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-97" value="跳转至我的预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
