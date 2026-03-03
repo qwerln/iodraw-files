@@ -95,7 +95,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-129">
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-129" target="8s3LWyco3oIBxDCs_r0V-123">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="1220" as="targetPoint" />
             <Array as="points">
@@ -114,7 +114,12 @@
           <mxGeometry x="90" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-132" target="8s3LWyco3oIBxDCs_r0V-123">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1190" />
+              <mxPoint x="500" y="1190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-132" value="处理退款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1070" width="120" height="60" as="geometry" />
