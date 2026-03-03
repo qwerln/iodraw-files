@@ -43,12 +43,17 @@
           <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-56" target="8s3LWyco3oIBxDCs_r0V-58">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="620" />
+              <mxPoint x="370" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-56" value="查看详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3LWyco3oIBxDCs_r0V-58" value="查看详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-58" value="选择场地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
