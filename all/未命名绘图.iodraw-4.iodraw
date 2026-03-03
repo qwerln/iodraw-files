@@ -137,6 +137,9 @@
         <mxCell id="8s3LWyco3oIBxDCs_r0V-87" value="检查预约条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3LWyco3oIBxDCs_r0V-88" target="8s3LWyco3oIBxDCs_r0V-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-88" value="提示失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -160,6 +163,9 @@
         </mxCell>
         <mxCell id="8s3LWyco3oIBxDCs_r0V-97" value="跳转至我的预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3LWyco3oIBxDCs_r0V-99" value="跳转至选择预约页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
