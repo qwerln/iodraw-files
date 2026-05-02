@@ -82,15 +82,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUG6G6shP18n1KH8bbei-176" value="" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-164" target="rUG6G6shP18n1KH8bbei-166">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="675" />
-              <mxPoint x="590" y="645" />
-              <mxPoint x="590" y="675" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rUG6G6shP18n1KH8bbei-177" value="11. 点赞或收藏文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-162" target="rUG6G6shP18n1KH8bbei-163">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -117,6 +108,12 @@
             <Array as="points">
               <mxPoint x="636" y="891" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-181" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="rUG6G6shP18n1KH8bbei-166">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="540" y="690" as="sourcePoint" />
+            <mxPoint x="620" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
