@@ -96,11 +96,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="-01vLTrZter3j_iqGfBb-19">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="-01vLTrZter3j_iqGfBb-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="10" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
