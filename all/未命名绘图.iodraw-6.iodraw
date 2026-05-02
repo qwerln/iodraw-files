@@ -19,6 +19,9 @@
         <mxCell id="-01vLTrZter3j_iqGfBb-4" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="546" y="20" width="150" height="676" as="geometry" />
         </mxCell>
+        <mxCell id="-01vLTrZter3j_iqGfBb-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-01vLTrZter3j_iqGfBb-4">
+          <mxGeometry x="70" y="100" width="10" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="-01vLTrZter3j_iqGfBb-5" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="809" y="20" width="150" height="676" as="geometry" />
         </mxCell>
@@ -101,6 +104,9 @@
               <mxPoint x="238" y="591" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-01vLTrZter3j_iqGfBb-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="363" y="130" width="10" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
