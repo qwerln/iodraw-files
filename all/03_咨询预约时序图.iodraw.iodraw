@@ -118,6 +118,105 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-209" value="后台管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1190" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-210" value="Vue管理端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1190" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-211" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="481" y="1190" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-212" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="807" y="1190" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-213" value="心理咨询师" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1190" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-214" value="1. 进入咨询师审核页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-209" target="rUG6G6shP18n1KH8bbei-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="1299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-215" value="2. 请求待审核咨询师" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-210" target="rUG6G6shP18n1KH8bbei-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="1353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-216" value="3. 查询counselor_profile审核状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-211" target="rUG6G6shP18n1KH8bbei-212">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="728" y="1407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-217" value="4. 返回待审核资料" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-212" target="rUG6G6shP18n1KH8bbei-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-218" value="5. 返回咨询师资质信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-211" target="rUG6G6shP18n1KH8bbei-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="1515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-219" value="6. 展示资质资料" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-210" target="rUG6G6shP18n1KH8bbei-209">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="222" y="1569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-220" value="7. 提交通过/驳回" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-209" target="rUG6G6shP18n1KH8bbei-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="1623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-221" value="8. 发送审核结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-210" target="rUG6G6shP18n1KH8bbei-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="1677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-222" value="9. 更新审核状态、审核人、审核时间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-211" target="rUG6G6shP18n1KH8bbei-212">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="728" y="1731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-223" value="10. 返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-212" target="rUG6G6shP18n1KH8bbei-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="1785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-224" value="11. 返回审核结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-211" target="rUG6G6shP18n1KH8bbei-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="452" y="1839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-225" value="12. 咨询师可查看审核状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-211" target="rUG6G6shP18n1KH8bbei-213">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="828" y="1893" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
