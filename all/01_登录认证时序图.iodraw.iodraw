@@ -70,7 +70,7 @@
         <mxCell id="IxtS6yCDz9Wa30eQ9HNp-35" value="6. 写入登录状态/令牌缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-40" target="IxtS6yCDz9Wa30eQ9HNp-29">
           <mxGeometry x="-0.0118" y="22" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1111" y="429" />
+              <mxPoint x="840" y="429" />
             </Array>
             <mxPoint x="-11" y="3" as="offset" />
           </mxGeometry>
@@ -103,6 +103,11 @@
             </Array>
             <mxPoint x="834" y="429" as="sourcePoint" />
             <mxPoint x="1305" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxtS6yCDz9Wa30eQ9HNp-44">
+          <mxGeometry x="0.1332" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IxtS6yCDz9Wa30eQ9HNp-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
