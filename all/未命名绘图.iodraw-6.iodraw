@@ -89,14 +89,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-01vLTrZter3j_iqGfBb-42" value="11. 计算总分与维度结果" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="-01vLTrZter3j_iqGfBb-29" target="-01vLTrZter3j_iqGfBb-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="669" />
-              <mxPoint x="670" y="699" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-01vLTrZter3j_iqGfBb-43" value="12. 保存测评记录与作答明细" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-01vLTrZter3j_iqGfBb-29" target="-01vLTrZter3j_iqGfBb-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
