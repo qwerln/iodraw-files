@@ -4,6 +4,85 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-25" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="150" height="676" as="geometry" />
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-26" value="HarmonyOS/Vue前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="522" y="20" width="172" height="676" as="geometry" />
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-27" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="796" y="20" width="150" height="676" as="geometry" />
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-28" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="20" width="150" height="676" as="geometry" />
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-29" value="Redis缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="20" width="150" height="676" as="geometry" />
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-30" value="1. 输入账号密码并提交登录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-25" target="IxtS6yCDz9Wa30eQ9HNp-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-31" value="2. 发送登录请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-26" target="IxtS6yCDz9Wa30eQ9HNp-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="748" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-32" value="3. 查询用户账号与角色信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1011" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-33" value="4. 返回用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-28" target="IxtS6yCDz9Wa30eQ9HNp-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-34" value="5. 校验密码与账号状态" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="922" y="345" />
+              <mxPoint x="922" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-35" value="6. 写入登录状态/令牌缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1111" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-36" value="7. 返回缓存写入结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-29" target="IxtS6yCDz9Wa30eQ9HNp-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1114" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-37" value="8. 返回登录结果与角色权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-38" value="9. 展示对应角色首页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-26" target="IxtS6yCDz9Wa30eQ9HNp-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="488" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
