@@ -22,8 +22,14 @@
         <mxCell id="-01vLTrZter3j_iqGfBb-54" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1416" y="1040" width="150" height="1132" as="geometry" />
         </mxCell>
+        <mxCell id="-01vLTrZter3j_iqGfBb-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-01vLTrZter3j_iqGfBb-54">
+          <mxGeometry x="70" y="95" width="10" height="990" as="geometry" />
+        </mxCell>
         <mxCell id="-01vLTrZter3j_iqGfBb-55" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1797" y="1040" width="150" height="1132" as="geometry" />
+        </mxCell>
+        <mxCell id="-01vLTrZter3j_iqGfBb-77" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-01vLTrZter3j_iqGfBb-55">
+          <mxGeometry x="70" y="95" width="10" height="990" as="geometry" />
         </mxCell>
         <mxCell id="-01vLTrZter3j_iqGfBb-56" value="心理咨询师" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1997" y="1040" width="150" height="1132" as="geometry" />
@@ -156,12 +162,6 @@
         </mxCell>
         <mxCell id="-01vLTrZter3j_iqGfBb-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1020" y="1150" width="10" height="990" as="geometry" />
-        </mxCell>
-        <mxCell id="-01vLTrZter3j_iqGfBb-77" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1160" width="10" height="990" as="geometry" />
-        </mxCell>
-        <mxCell id="-01vLTrZter3j_iqGfBb-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1170" width="10" height="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
