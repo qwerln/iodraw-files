@@ -67,6 +67,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-35" value="6. 写入登录状态/令牌缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-40" target="IxtS6yCDz9Wa30eQ9HNp-29">
+          <mxGeometry x="-0.0118" y="22" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1111" y="429" />
+            </Array>
+            <mxPoint x="-11" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IxtS6yCDz9Wa30eQ9HNp-36" value="7. 返回缓存写入结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-29" target="IxtS6yCDz9Wa30eQ9HNp-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -90,7 +98,9 @@
         </mxCell>
         <mxCell id="IxtS6yCDz9Wa30eQ9HNp-44" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-40">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1120" y="400" />
+            </Array>
             <mxPoint x="834" y="429" as="sourcePoint" />
             <mxPoint x="1305" y="429" as="targetPoint" />
           </mxGeometry>
