@@ -101,7 +101,7 @@
           <mxGeometry x="1300" y="110" width="10" height="570" as="geometry" />
         </mxCell>
         <mxCell id="IxtS6yCDz9Wa30eQ9HNp-47" value="&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;6. 写入登录状态/令牌缓存&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="955" y="388" width="210" height="30" as="geometry" />
+          <mxGeometry x="980" y="395" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
