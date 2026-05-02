@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-34" value="" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-27">
+        <mxCell id="IxtS6yCDz9Wa30eQ9HNp-34" value="5. 校验密码与账号状态" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="IxtS6yCDz9Wa30eQ9HNp-27" target="IxtS6yCDz9Wa30eQ9HNp-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="922" y="345" />
