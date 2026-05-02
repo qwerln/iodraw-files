@@ -4,6 +4,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rUG6G6shP18n1KH8bbei-273" value="后台管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-274" value="Vue管理端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="234" y="130" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-275" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="434" y="130" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-276" value="Redis缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="649" y="130" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-277" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="849" y="130" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-278" value="1. 进入数据统计页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-273" target="rUG6G6shP18n1KH8bbei-274">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-279" value="2. 请求统计数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-274" target="rUG6G6shP18n1KH8bbei-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-280" value="3. 查询统计缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-275" target="rUG6G6shP18n1KH8bbei-276">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-281" value="4. 返回缓存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-276" target="rUG6G6shP18n1KH8bbei-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="628" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-282" value="5. 缓存未命中时聚合查询用户、测评、预约、内容数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-275" target="rUG6G6shP18n1KH8bbei-277">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-283" value="6. 返回统计结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-277" target="rUG6G6shP18n1KH8bbei-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="728" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-284" value="7. 写入统计缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-275" target="rUG6G6shP18n1KH8bbei-276">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="563" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-285" value="8. 返回缓存写入结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-276" target="rUG6G6shP18n1KH8bbei-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="628" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-286" value="9. 返回统计数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-275" target="rUG6G6shP18n1KH8bbei-274">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-287" value="10. 展示统计报表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-274" target="rUG6G6shP18n1KH8bbei-273">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="214" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
