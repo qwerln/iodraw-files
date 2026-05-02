@@ -4,6 +4,120 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rUG6G6shP18n1KH8bbei-162" value="学生用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="150" height="946" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-163" value="HarmonyOS移动端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="232" y="50" width="154" height="946" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-164" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="464" y="50" width="150" height="946" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-165" value="Redis缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="664" y="50" width="150" height="946" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-166" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="864" y="50" width="150" height="946" as="geometry" />
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-167" value="1. 进入心理文章模块" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-162" target="rUG6G6shP18n1KH8bbei-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-168" value="2. 请求文章分类/列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-163" target="rUG6G6shP18n1KH8bbei-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-169" value="3. 查询文章缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-164" target="rUG6G6shP18n1KH8bbei-165">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="648" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-170" value="4. 返回缓存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-165" target="rUG6G6shP18n1KH8bbei-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="651" y="321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-171" value="5. 缓存未命中时查询文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-164" target="rUG6G6shP18n1KH8bbei-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="748" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-172" value="6. 返回文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-166" target="rUG6G6shP18n1KH8bbei-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-173" value="7. 返回文章列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-164" target="rUG6G6shP18n1KH8bbei-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="436" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-174" value="8. 浏览文章详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-162" target="rUG6G6shP18n1KH8bbei-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-175" value="9. 提交浏览记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-163" target="rUG6G6shP18n1KH8bbei-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-176" value="10. 写入浏览/学习记录" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-164" target="rUG6G6shP18n1KH8bbei-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="645" />
+              <mxPoint x="590" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-177" value="11. 点赞或收藏文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-162" target="rUG6G6shP18n1KH8bbei-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-178" value="12. 提交点赞/收藏请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-163" target="rUG6G6shP18n1KH8bbei-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="783" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-179" value="13. 写入点赞/收藏数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-164" target="rUG6G6shP18n1KH8bbei-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="748" y="837" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUG6G6shP18n1KH8bbei-180" value="14. 返回操作结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="rUG6G6shP18n1KH8bbei-166" target="rUG6G6shP18n1KH8bbei-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="891" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
