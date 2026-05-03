@@ -141,8 +141,19 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-149" value="等待咨询师确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-151" target="OhUVbr6PbECt7kb4Bggy-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-155" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OhUVbr6PbECt7kb4Bggy-154">
+          <mxGeometry x="-0.1866" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-151" value="是否确认？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="970" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-153" value="取消或重新预约" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1116" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
