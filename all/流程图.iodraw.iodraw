@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-139" value="查看咨询师列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-141" target="OhUVbr6PbECt7kb4Bggy-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-141" value="查看咨询师详情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-143" target="OhUVbr6PbECt7kb4Bggy-145">
           <mxGeometry relative="1" as="geometry" />
