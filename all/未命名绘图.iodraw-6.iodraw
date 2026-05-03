@@ -76,7 +76,7 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-51" value="保存预约信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-54" value="保存预约信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-54" value="返回预约结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
