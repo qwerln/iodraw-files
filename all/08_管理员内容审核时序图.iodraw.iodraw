@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="LQFkTlP-o_xrht1l52dy">
+    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-1" value="后台管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-2" value="Vue管理端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="241" y="20" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-3" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="441" y="20" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-4" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="695" y="20" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-5" value="树洞文章内容" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="895" y="20" width="150" height="808" as="geometry" />
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-6" value="1. 进入内容审核管理" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-1" target="uB8v-J5a7_6SRQWza7cI-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="214" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-7" value="2. 请求待审核内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-2" target="uB8v-J5a7_6SRQWza7cI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-8" value="3. 查询树洞/文章审核数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-3" target="uB8v-J5a7_6SRQWza7cI-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="652" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-9" value="4. 返回待审核列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-4" target="uB8v-J5a7_6SRQWza7cI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-10" value="5. 返回审核数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-3" target="uB8v-J5a7_6SRQWza7cI-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-11" value="6. 展示待审核内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-2" target="uB8v-J5a7_6SRQWza7cI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-12" value="7. 提交通过/驳回操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-1" target="uB8v-J5a7_6SRQWza7cI-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="214" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-13" value="8. 发送审核结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-2" target="uB8v-J5a7_6SRQWza7cI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-14" value="9. 更新审核状态与原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-3" target="uB8v-J5a7_6SRQWza7cI-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="652" y="561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-15" value="10. 返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-4" target="uB8v-J5a7_6SRQWza7cI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-16" value="11. 返回审核成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-3" target="uB8v-J5a7_6SRQWza7cI-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-17" value="12. 刷新审核列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-2" target="uB8v-J5a7_6SRQWza7cI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217" y="723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
