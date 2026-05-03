@@ -11,10 +11,10 @@
           <mxGeometry x="1168" y="340" width="154" height="1132" as="geometry" />
         </mxCell>
         <mxCell id="D_ubqNgJ1zofIjHASazW-3" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1426" y="340" width="150" height="1132" as="geometry" />
+          <mxGeometry x="1400" y="340" width="150" height="1132" as="geometry" />
         </mxCell>
         <mxCell id="D_ubqNgJ1zofIjHASazW-4" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1807" y="340" width="150" height="1132" as="geometry" />
+          <mxGeometry x="1730" y="340" width="150" height="1132" as="geometry" />
         </mxCell>
         <mxCell id="D_ubqNgJ1zofIjHASazW-5" value="心理咨询师" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2007" y="340" width="150" height="1132" as="geometry" />
