@@ -22,7 +22,7 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-37" value="进入咨询预约模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-39" value="进入咨询预约模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-39" value="查看咨询师排班" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
