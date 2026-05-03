@@ -19,9 +19,6 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-5" value="开始答题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="434" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-6" value="是否完成所有题目？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="572" y="600" width="170" height="126" as="geometry" />
-        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-7" value="提交测评" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="820" width="125" height="48" as="geometry" />
         </mxCell>
@@ -60,23 +57,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-5" target="aw9ES6cxF3-OmOH2O28f-6">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="642" y="518" />
             </Array>
+            <mxPoint x="647.8928571428569" y="606.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0.55;entryY=1;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-6" target="aw9ES6cxF3-OmOH2O28f-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="672" y="518" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-6" target="aw9ES6cxF3-OmOH2O28f-7">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="aw9ES6cxF3-OmOH2O28f-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="657" y="726" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-7" target="aw9ES6cxF3-OmOH2O28f-8">
