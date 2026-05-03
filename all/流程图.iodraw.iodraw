@@ -79,8 +79,8 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-62" value="将用户信息存入数据库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-65" value="将用户信息存入数据库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-65" value="提示用户注册成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
