@@ -85,8 +85,8 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-65" value="提示用户注册成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-68" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-68" value="提示用户已经存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
