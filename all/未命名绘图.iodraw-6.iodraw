@@ -1,162 +1,127 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="xV-V9MM_eZMJsf4NhTux">
-    <mxGraphModel dx="1500" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+  <diagram name="第 1 页" id="4TfmUYj-1IhVh7yUt_Ob">
+    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D_ubqNgJ1zofIjHASazW-1" value="学生用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="950" y="340" width="150" height="1132" as="geometry" />
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-1" value="学生用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="150" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D_ubqNgJ1zofIjHASazW-1">
-          <mxGeometry x="70" y="90" width="10" height="1010" as="geometry" />
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-2" value="HarmonyOS移动端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="250" y="20" width="154" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-2" value="HarmonyOS移动端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1168" y="340" width="154" height="1132" as="geometry" />
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-3" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="510" y="20" width="150" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D_ubqNgJ1zofIjHASazW-2">
-          <mxGeometry x="72" y="110" width="10" height="1010" as="geometry" />
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-4" value="Redis缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="740" y="20" width="150" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-3" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="340" width="150" height="1132" as="geometry" />
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-5" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="930" y="20" width="150" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D_ubqNgJ1zofIjHASazW-3">
-          <mxGeometry x="70" y="100" width="10" height="1010" as="geometry" />
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-4" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="340" width="150" height="1132" as="geometry" />
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D_ubqNgJ1zofIjHASazW-4">
-          <mxGeometry x="70" y="100" width="10" height="1010" as="geometry" />
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-5" value="心理咨询师" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="340" width="150" height="1132" as="geometry" />
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D_ubqNgJ1zofIjHASazW-5">
-          <mxGeometry x="70" y="90" width="10" height="1010" as="geometry" />
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-6" value="1. 进入心理咨询模块" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-1" target="D_ubqNgJ1zofIjHASazW-2">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-6" value="1. 进入心理测评模块" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-1" target="fAZe88mDmTo7rrP2I0xN-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1157" y="449" />
+              <mxPoint x="239" y="129" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-7" value="2. 请求咨询师列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-2" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-7" value="2. 请求测评分类/问卷列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-2" target="fAZe88mDmTo7rrP2I0xN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1395" y="503" />
+              <mxPoint x="501" y="183" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-8" value="3. 查询咨询师资料与审核状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-4">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-8" value="3. 查询测评缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-3" target="fAZe88mDmTo7rrP2I0xN-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1700" y="557" />
+              <mxPoint x="728" y="237" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-9" value="4. 返回咨询师信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-4" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-9" value="4. 返回缓存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-4" target="fAZe88mDmTo7rrP2I0xN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1703" y="611" />
+              <mxPoint x="731" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-10" value="5. 返回可预约咨询师" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-2">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-10" value="5. 缓存未命中时查询问卷、题目、选项" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-3" target="fAZe88mDmTo7rrP2I0xN-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1398" y="665" />
+              <mxPoint x="828" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-11" value="6. 选择咨询师并查看时间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-1" target="D_ubqNgJ1zofIjHASazW-2">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-11" value="6. 返回测评数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-5" target="fAZe88mDmTo7rrP2I0xN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1157" y="719" />
+              <mxPoint x="831" y="399" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-12" value="7. 请求可预约时间槽" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-2" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-12" value="7. 返回问卷内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-3" target="fAZe88mDmTo7rrP2I0xN-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1395" y="773" />
+              <mxPoint x="504" y="453" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-13" value="8. 查询consult_slot" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-4">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-13" value="8. 展示测评题目" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-2" target="fAZe88mDmTo7rrP2I0xN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1700" y="827" />
+              <mxPoint x="242" y="507" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-14" value="9. 返回可预约时间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-4" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-14" value="9. 填写并提交答案" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-1" target="fAZe88mDmTo7rrP2I0xN-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1703" y="881" />
+              <mxPoint x="239" y="561" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-15" value="10. 填写原因并提交预约" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-1" target="D_ubqNgJ1zofIjHASazW-2">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-15" value="10. 提交测评答案" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-2" target="fAZe88mDmTo7rrP2I0xN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1157" y="935" />
+              <mxPoint x="501" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-16" value="11. 提交预约申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-2" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-16" value="11. 计算总分与维度结果" style="curved=1;endArrow=block;rounded=0;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-3" target="fAZe88mDmTo7rrP2I0xN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1395" y="989" />
+              <mxPoint x="670" y="669" />
+              <mxPoint x="670" y="699" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-17" value="12. 写入consult_appointment并更新slot状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-4">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-17" value="12. 保存测评记录与作答明细" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-3" target="fAZe88mDmTo7rrP2I0xN-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1700" y="1043" />
+              <mxPoint x="828" y="753" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-18" value="13. 返回预约保存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-4" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-18" value="13. 返回保存结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-5" target="fAZe88mDmTo7rrP2I0xN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1703" y="1097" />
+              <mxPoint x="831" y="807" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-19" value="14. 返回申请成功/失败" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-2">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-19" value="14. 返回测评结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-3" target="fAZe88mDmTo7rrP2I0xN-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1398" y="1151" />
+              <mxPoint x="504" y="861" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-20" value="15. 查看待处理预约" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-5" target="D_ubqNgJ1zofIjHASazW-3">
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-20" value="15. 展示结果与历史记录入口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" parent="1" source="fAZe88mDmTo7rrP2I0xN-2" target="fAZe88mDmTo7rrP2I0xN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1803" y="1205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-21" value="16. 查询预约列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1700" y="1259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-22" value="17. 返回预约数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-4" target="D_ubqNgJ1zofIjHASazW-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1703" y="1313" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D_ubqNgJ1zofIjHASazW-23" value="18. 展示待处理预约" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="D_ubqNgJ1zofIjHASazW-3" target="D_ubqNgJ1zofIjHASazW-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1800" y="1367" />
+              <mxPoint x="242" y="915" />
             </Array>
           </mxGeometry>
         </mxCell>
