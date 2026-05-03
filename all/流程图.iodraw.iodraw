@@ -49,9 +49,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-12">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-12" target="OhUVbr6PbECt7kb4Bggy-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="600" />
+              <mxPoint x="390" y="348" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-12" value="用户是否存在？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
