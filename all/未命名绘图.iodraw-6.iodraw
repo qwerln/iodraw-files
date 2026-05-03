@@ -54,13 +54,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-47" target="aw9ES6cxF3-OmOH2O28f-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-71" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aw9ES6cxF3-OmOH2O28f-70">
+          <mxGeometry x="-0.1837" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-47" value="是否存在风险情绪？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="350" y="840" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-51" target="aw9ES6cxF3-OmOH2O28f-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-51" value="保存预约信息" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-51" value="标记风险内容" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-54" target="aw9ES6cxF3-OmOH2O28f-56">
