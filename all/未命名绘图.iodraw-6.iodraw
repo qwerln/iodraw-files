@@ -34,9 +34,6 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-11" value="展示测评结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="820" y="974" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="852" y="1072" width="94" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" target="aw9ES6cxF3-OmOH2O28f-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -78,9 +75,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-11" target="aw9ES6cxF3-OmOH2O28f-12">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="899" y="1072" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-25" target="aw9ES6cxF3-OmOH2O28f-7">
@@ -111,6 +109,9 @@
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-32" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="599" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
