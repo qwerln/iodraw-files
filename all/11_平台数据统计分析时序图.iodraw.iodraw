@@ -20,7 +20,7 @@
           <mxGeometry x="430" y="20" width="150" height="700" as="geometry" />
         </mxCell>
         <mxCell id="HcdxFtoT5k3VU3xhID50-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HcdxFtoT5k3VU3xhID50-3">
-          <mxGeometry x="70" y="100" width="10" height="590" as="geometry" />
+          <mxGeometry x="70" y="90" width="10" height="590" as="geometry" />
         </mxCell>
         <mxCell id="HcdxFtoT5k3VU3xhID50-4" value="Redis缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="20" width="150" height="700" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="HcdxFtoT5k3VU3xhID50-5" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="820" y="20" width="150" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="HcdxFtoT5k3VU3xhID50-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HcdxFtoT5k3VU3xhID50-5">
+          <mxGeometry x="70" y="90" width="10" height="590" as="geometry" />
         </mxCell>
         <mxCell id="HcdxFtoT5k3VU3xhID50-6" value="1. 进入数据统计页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="HcdxFtoT5k3VU3xhID50-1" target="HcdxFtoT5k3VU3xhID50-2">
           <mxGeometry relative="1" as="geometry">
@@ -100,9 +103,6 @@
               <mxPoint x="214" y="615" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HcdxFtoT5k3VU3xhID50-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="100" y="120" width="10" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
