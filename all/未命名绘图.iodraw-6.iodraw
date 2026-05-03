@@ -76,8 +76,14 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-51" value="保存预约信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-54" target="aw9ES6cxF3-OmOH2O28f-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-54" value="返回预约结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-56" value="咨询师查看预约" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
