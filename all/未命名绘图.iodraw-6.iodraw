@@ -49,19 +49,6 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-45" value="调用情绪分析模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-47" target="aw9ES6cxF3-OmOH2O28f-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="890" />
-              <mxPoint x="290" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="aw9ES6cxF3-OmOH2O28f-49">
-          <mxGeometry x="0.0428" y="4" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-47" target="aw9ES6cxF3-OmOH2O28f-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -71,13 +58,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-47" value="是否存在风险情绪？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="350" y="840" width="130" height="90" as="geometry" />
+          <mxGeometry x="350" y="840" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-51" target="aw9ES6cxF3-OmOH2O28f-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-51" value="保存预约信息" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-54" target="aw9ES6cxF3-OmOH2O28f-56">
           <mxGeometry relative="1" as="geometry" />
