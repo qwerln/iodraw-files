@@ -14,10 +14,10 @@
           <mxGeometry x="430" y="19" width="150" height="808" as="geometry" />
         </mxCell>
         <mxCell id="uB8v-J5a7_6SRQWza7cI-4" value="MySQL数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="695" y="20" width="150" height="808" as="geometry" />
+          <mxGeometry x="660" y="20" width="150" height="808" as="geometry" />
         </mxCell>
-        <mxCell id="uB8v-J5a7_6SRQWza7cI-5" value="树洞文章内容" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="895" y="20" width="150" height="808" as="geometry" />
+        <mxCell id="uB8v-J5a7_6SRQWza7cI-5" value="树洞文章内容" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="20" width="150" height="808" as="geometry" />
         </mxCell>
         <mxCell id="uB8v-J5a7_6SRQWza7cI-6" value="1. 进入内容审核管理" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" edge="1" parent="1" source="uB8v-J5a7_6SRQWza7cI-1" target="uB8v-J5a7_6SRQWza7cI-2">
           <mxGeometry relative="1" as="geometry">
