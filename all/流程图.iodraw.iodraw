@@ -155,10 +155,13 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-84" value="返回token信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-86" target="OhUVbr6PbECt7kb4Bggy-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-86" value="提示用户登录成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-88" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
