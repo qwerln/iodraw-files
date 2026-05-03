@@ -35,6 +35,9 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-46" value="填写用户基本信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-48" target="OhUVbr6PbECt7kb4Bggy-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-48" value="填写账号/密码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,6 +95,9 @@
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-68" value="提示用户已经存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-73" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
