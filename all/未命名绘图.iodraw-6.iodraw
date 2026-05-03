@@ -111,6 +111,9 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-25" value="是否完成所有题目？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="572" y="550" width="170" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
