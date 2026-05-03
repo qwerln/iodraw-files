@@ -38,7 +38,7 @@
             <mxGeometry as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ueukYczN9hO7s9vdwAd0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PDaF0fK1R2VLDaR390hQ-147" target="PDaF0fK1R2VLDaR390hQ-158">
+        <mxCell id="ueukYczN9hO7s9vdwAd0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PDaF0fK1R2VLDaR390hQ-147" target="PDaF0fK1R2VLDaR390hQ-158">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="163" y="600" />
