@@ -20,7 +20,7 @@
           <mxGeometry x="594" y="434" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-6" value="是否完成所有题目？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="554" width="193" height="126" as="geometry" />
+          <mxGeometry x="572" y="600" width="170" height="126" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-7" value="提交测评" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="820" width="125" height="48" as="geometry" />
