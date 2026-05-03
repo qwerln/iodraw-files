@@ -11,10 +11,10 @@
           <mxGeometry x="70" y="90" width="10" height="890" as="geometry" />
         </mxCell>
         <mxCell id="fAZe88mDmTo7rrP2I0xN-2" value="HarmonyOS移动端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="250" y="30" width="154" height="990" as="geometry" />
+          <mxGeometry x="250" y="20" width="154" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="8YP4oXv1plQD0PKfDMMe-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fAZe88mDmTo7rrP2I0xN-2">
-          <mxGeometry x="72" y="90" width="10" height="910" as="geometry" />
+          <mxGeometry x="72" y="90" width="10" height="890" as="geometry" />
         </mxCell>
         <mxCell id="fAZe88mDmTo7rrP2I0xN-3" value="Flask后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="510" y="20" width="150" height="1000" as="geometry" />
