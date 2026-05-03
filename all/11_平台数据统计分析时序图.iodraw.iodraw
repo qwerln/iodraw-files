@@ -7,6 +7,9 @@
         <mxCell id="HcdxFtoT5k3VU3xhID50-1" value="后台管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="150" height="700" as="geometry" />
         </mxCell>
+        <mxCell id="HcdxFtoT5k3VU3xhID50-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HcdxFtoT5k3VU3xhID50-1">
+          <mxGeometry x="70" y="90" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="HcdxFtoT5k3VU3xhID50-2" value="Vue管理端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="20" width="150" height="700" as="geometry" />
         </mxCell>
