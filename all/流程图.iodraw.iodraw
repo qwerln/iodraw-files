@@ -34,7 +34,7 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-99" value="AI检测内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-103" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-103" value="是否包含危险情绪？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="810" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
