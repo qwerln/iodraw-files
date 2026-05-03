@@ -111,7 +111,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-civ5X4VUTV4ixOgPjen-17" value="12. 咨询师端可查看审核状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;" parent="1" source="-civ5X4VUTV4ixOgPjen-5" target="-civ5X4VUTV4ixOgPjen-21" edge="1">
+        <mxCell id="-civ5X4VUTV4ixOgPjen-17" value="12. 咨询师端可查看审核状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=16;entryX=0.48;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-civ5X4VUTV4ixOgPjen-5" target="-civ5X4VUTV4ixOgPjen-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1029" y="723" />
