@@ -51,14 +51,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-52" target="OhUVbr6PbECt7kb4Bggy-56">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-52" target="OhUVbr6PbECt7kb4Bggy-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-52" value="信息是否合规？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="450" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-56" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-59" value="用户是否存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
