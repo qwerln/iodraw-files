@@ -171,8 +171,9 @@
             <mxGeometry x="570" y="650" width="45" height="255" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="PDaF0fK1R2VLDaR390hQ-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PDaF0fK1R2VLDaR390hQ-174" target="PDaF0fK1R2VLDaR390hQ-181">
+        <mxCell id="PDaF0fK1R2VLDaR390hQ-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PDaF0fK1R2VLDaR390hQ-174">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="598" y="645" as="targetPoint" />
             <Array as="points">
               <mxPoint x="598" y="550" />
               <mxPoint x="598" y="550" />
