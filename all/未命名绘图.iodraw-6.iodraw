@@ -119,11 +119,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fAZe88mDmTo7rrP2I0xN-20" value="15. 展示结果与历史记录入口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=16;" edge="1" parent="1" source="fAZe88mDmTo7rrP2I0xN-2" target="fAZe88mDmTo7rrP2I0xN-1">
-          <mxGeometry x="-0.4014" y="370" relative="1" as="geometry">
+          <mxGeometry x="-0.0413" y="390" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="242" y="915" />
             </Array>
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAZe88mDmTo7rrP2I0xN-21" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="640" as="sourcePoint" />
+            <mxPoint x="500" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
