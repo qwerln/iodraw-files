@@ -98,6 +98,11 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-25" target="aw9ES6cxF3-OmOH2O28f-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aw9ES6cxF3-OmOH2O28f-30">
+          <mxGeometry x="-0.0554" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-25" value="是否完成所有题目？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="572" y="550" width="170" height="110" as="geometry" />
         </mxCell>
