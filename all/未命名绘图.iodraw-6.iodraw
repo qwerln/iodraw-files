@@ -20,22 +20,22 @@
           <mxGeometry x="594" y="434" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-7" value="提交测评" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="820" width="125" height="48" as="geometry" />
+          <mxGeometry x="906" y="540" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-8" value="系统计算结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="578" y="918" width="157" height="48" as="geometry" />
+          <mxGeometry x="890" y="638" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-9" value="生成测评报告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="579" y="1017" width="156" height="48" as="geometry" />
+          <mxGeometry x="891" y="737" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-10" value="保存测评记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="578" y="1115" width="158" height="48" as="geometry" />
+          <mxGeometry x="890" y="835" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-11" value="展示测评结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="578" y="1214" width="157" height="48" as="geometry" />
+          <mxGeometry x="890" y="934" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1312" width="94" height="48" as="geometry" />
+          <mxGeometry x="922" y="1032" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-1" target="aw9ES6cxF3-OmOH2O28f-2">
           <mxGeometry relative="1" as="geometry">
@@ -55,20 +55,6 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-4" target="aw9ES6cxF3-OmOH2O28f-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="642" y="518" />
-            </Array>
-            <mxPoint x="647.8928571428569" y="606.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="aw9ES6cxF3-OmOH2O28f-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="657" y="726" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-7" target="aw9ES6cxF3-OmOH2O28f-8">
