@@ -71,20 +71,13 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-51" value="标记风险内容" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="855" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-54" target="aw9ES6cxF3-OmOH2O28f-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1079.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-54" value="返回预约结果" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-54" value="预警提示" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-56" target="aw9ES6cxF3-OmOH2O28f-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-56" value="咨询师查看预约" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aw9ES6cxF3-OmOH2O28f-60" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-63" target="aw9ES6cxF3-OmOH2O28f-67">
           <mxGeometry relative="1" as="geometry" />
