@@ -15,7 +15,7 @@
             <mxPoint x="470" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-2" value="用户选择注册/登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-2" value="选择测评量表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
