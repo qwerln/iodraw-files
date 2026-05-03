@@ -16,6 +16,9 @@
         <mxCell id="aw9ES6cxF3-OmOH2O28f-4" value="选择测评问卷" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="578" y="335" width="158" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="aw9ES6cxF3-OmOH2O28f-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aw9ES6cxF3-OmOH2O28f-5" target="aw9ES6cxF3-OmOH2O28f-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-5" value="开始答题" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="594" y="434" width="125" height="48" as="geometry" />
         </mxCell>
@@ -83,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aw9ES6cxF3-OmOH2O28f-25" value="是否完成所有题目？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550" width="170" height="110" as="geometry" />
+          <mxGeometry x="572" y="550" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
