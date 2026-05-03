@@ -71,10 +71,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-59" value="用户是否存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="610" width="140" height="80" as="geometry" />
+          <mxGeometry x="590" y="600" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-62" target="OhUVbr6PbECt7kb4Bggy-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-62" value="将用户信息存入数据库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-65" value="将用户信息存入数据库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
