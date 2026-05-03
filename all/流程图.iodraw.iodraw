@@ -123,8 +123,14 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-143" value="填写预约表单（诉求描述）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-145" value="填写预约表单（诉求描述）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-145" target="OhUVbr6PbECt7kb4Bggy-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-145" value="AI匹配推荐咨询师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-147" value="选择时间并提交预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
