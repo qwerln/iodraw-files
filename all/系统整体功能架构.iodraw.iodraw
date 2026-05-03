@@ -79,23 +79,6 @@
             <mxGeometry x="50" y="650" width="45" height="255" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="PDaF0fK1R2VLDaR390hQ-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="PDaF0fK1R2VLDaR390hQ-174" target="PDaF0fK1R2VLDaR390hQ-177" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="598" y="590" />
-              <mxPoint x="510" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PDaF0fK1R2VLDaR390hQ-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="PDaF0fK1R2VLDaR390hQ-174" target="PDaF0fK1R2VLDaR390hQ-176" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="598" y="590" />
-              <mxPoint x="660" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:25.4px;font-family:SimSun;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;心理测评&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="PDaF0fK1R2VLDaR390hQ-174">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=16;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="500" y="280" width="45" height="255" as="geometry" />
@@ -103,7 +86,7 @@
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:25.4px;font-family:SimSun;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;测评历史记录&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="PDaF0fK1R2VLDaR390hQ-175">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=16;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="720" y="650" width="45" height="255" as="geometry" />
+            <mxGeometry x="610" y="650" width="45" height="255" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:25.4px;font-family:SimSun;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;测评结果分析&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="PDaF0fK1R2VLDaR390hQ-176">
@@ -121,37 +104,11 @@
             <mxGeometry x="330" y="650" width="45" height="255" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="PDaF0fK1R2VLDaR390hQ-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="PDaF0fK1R2VLDaR390hQ-174" target="PDaF0fK1R2VLDaR390hQ-178" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="598" y="590" />
-              <mxPoint x="430" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PDaF0fK1R2VLDaR390hQ-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="PDaF0fK1R2VLDaR390hQ-174" target="PDaF0fK1R2VLDaR390hQ-175" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="598" y="590" />
-              <mxPoint x="743" y="590" />
-            </Array>
-            <mxPoint x="744" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:25.4px;font-family:SimSun;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;测评结果生成&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="PDaF0fK1R2VLDaR390hQ-181">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=16;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="470" y="650" width="45" height="255" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="PDaF0fK1R2VLDaR390hQ-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="PDaF0fK1R2VLDaR390hQ-174" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="598" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="598" y="550" />
-              <mxPoint x="598" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PDaF0fK1R2VLDaR390hQ-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="PDaF0fK1R2VLDaR390hQ-196" target="PDaF0fK1R2VLDaR390hQ-199" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
