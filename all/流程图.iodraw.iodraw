@@ -57,10 +57,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OhUVbr6PbECt7kb4Bggy-24">
+          <mxGeometry x="0.3" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-12" value="用户是否存在？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-17" value="验证密码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
