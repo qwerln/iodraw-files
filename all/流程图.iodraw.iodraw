@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="MR25jD1hMSQgffVhTl-U">
-    <mxGraphModel dx="3649" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3951" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
           <mxGeometry x="870" y="610" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-184" value="心理内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="290" width="110" height="60" as="geometry" />
+          <mxGeometry x="200" y="670" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-185" value="心理内容标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="190" width="110" height="60" as="geometry" />
