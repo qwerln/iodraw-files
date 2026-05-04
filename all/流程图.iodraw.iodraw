@@ -88,7 +88,7 @@
           <mxGeometry x="730" y="360" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-175" value="测评维度记录得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="160" width="110" height="60" as="geometry" />
+          <mxGeometry x="515" y="260" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-178" value="咨询消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1300" width="110" height="60" as="geometry" />
@@ -279,7 +279,7 @@
           <mxGeometry x="610" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-263" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-264" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="390" width="80" height="80" as="geometry" />
