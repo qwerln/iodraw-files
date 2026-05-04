@@ -17,7 +17,7 @@
           <mxGeometry x="360" y="40" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-166" value="学院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="827" width="110" height="60" as="geometry" />
+          <mxGeometry x="-40" y="827" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-167" value="学校" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="827" width="110" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="520" y="290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-169" value="专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="827" width="110" height="60" as="geometry" />
+          <mxGeometry x="-280" y="827" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-170" value="测评记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="110" height="60" as="geometry" />
