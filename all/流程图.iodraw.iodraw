@@ -62,7 +62,7 @@
           <mxGeometry x="520" y="420" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-179" value="咨询记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1060" width="110" height="60" as="geometry" />
+          <mxGeometry x="800" y="1060" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-180" target="OhUVbr6PbECt7kb4Bggy-198">
           <mxGeometry relative="1" as="geometry" />
