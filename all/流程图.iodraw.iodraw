@@ -19,7 +19,7 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-167" value="学校" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-168" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-168" value="测评题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="860" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-169" value="专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-170" value="测评记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="560" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-171" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-171" value="测评选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="700" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-172" value="测评问卷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
