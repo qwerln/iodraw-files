@@ -73,7 +73,7 @@
           <mxGeometry x="360" y="290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-173" value="测评维度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="110" height="60" as="geometry" />
+          <mxGeometry x="170" y="270" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-174" value="测评答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="290" width="110" height="60" as="geometry" />
