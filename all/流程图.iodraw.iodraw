@@ -58,8 +58,11 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-181" value="咨询会话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="420" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-182" value="咨询预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="430" width="110" height="60" as="geometry" />
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-182" value="树洞帖子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-183" value="咨询预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
