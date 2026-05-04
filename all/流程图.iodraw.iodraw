@@ -131,7 +131,7 @@
           <mxGeometry x="515" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-201" value="形成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1050" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-204" target="OhUVbr6PbECt7kb4Bggy-181">
           <mxGeometry relative="1" as="geometry" />
