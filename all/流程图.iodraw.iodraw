@@ -248,6 +248,12 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-250" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="550" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-253" target="OhUVbr6PbECt7kb4Bggy-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-253" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
