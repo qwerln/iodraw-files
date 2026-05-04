@@ -62,7 +62,7 @@
           <mxGeometry x="200" y="420" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-180" value="咨询预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="110" height="60" as="geometry" />
+          <mxGeometry x="500" y="1060" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-181" value="咨询会话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="420" width="110" height="60" as="geometry" />
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-192" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="817" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-195" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
