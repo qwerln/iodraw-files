@@ -192,11 +192,14 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-230" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="690" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-233" target="OhUVbr6PbECt7kb4Bggy-182">
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OhUVbr6PbECt7kb4Bggy-233" target="OhUVbr6PbECt7kb4Bggy-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-233" value="收到" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="885" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-236" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="817" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
