@@ -64,11 +64,11 @@
         <mxCell id="OhUVbr6PbECt7kb4Bggy-183" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OhUVbr6PbECt7kb4Bggy-184" value="树洞帖子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="540" width="110" height="60" as="geometry" />
+        <mxCell id="OhUVbr6PbECt7kb4Bggy-184" value="心理内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-185" value="树洞帖子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="550" width="110" height="60" as="geometry" />
+          <mxGeometry x="190" y="640" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
