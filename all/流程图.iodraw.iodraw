@@ -55,7 +55,7 @@
           <mxGeometry x="200" y="827" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-168" value="测评题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="110" height="60" as="geometry" />
+          <mxGeometry x="-80" y="570" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-169" value="专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="827" width="110" height="60" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="870" y="610" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-184" value="心理内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="420" width="110" height="60" as="geometry" />
+          <mxGeometry x="-130" y="290" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OhUVbr6PbECt7kb4Bggy-185" value="心理内容标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="190" width="110" height="60" as="geometry" />
