@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-144" value="选择统计维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px;&quot;&gt;(用户/测评/咨询等)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="130" height="60" as="geometry" />
+          <mxGeometry x="550" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-146" target="jeU5gwC4vnSwQ_-FF6oq-148">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-148" value="生成统计图表&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px;&quot;&gt;(柱状图/折线图等)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="640" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-150" target="jeU5gwC4vnSwQ_-FF6oq-152">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-152" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;导出报表（可选）&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="890" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-154" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="1010" width="120" height="60" as="geometry" />
