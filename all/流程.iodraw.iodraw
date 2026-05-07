@@ -4,6 +4,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-43" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="290" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-44" value="采集数据&#xa;(测评/氛围/行为)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="199" y="388" width="155" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-45" value="AI风险识别分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="205" y="504" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-46" value="风险等级?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="216" y="603" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-47" value="记录并持续跟踪" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="804" width="143" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-48" value="提醒用户&#xa;关注自身状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="213" y="795" width="126" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-49" value="立即预警&#xa;(通知管理员/咨询师)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="389" y="795" width="178" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-50" value="干预处理/跟进&#xa;(线下联系或线上引导)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="183" y="911" width="186" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-51" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1027" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-43" target="jeU5gwC4vnSwQ_-FF6oq-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-44" target="jeU5gwC4vnSwQ_-FF6oq-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-45" target="jeU5gwC4vnSwQ_-FF6oq-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-55" value="低风险" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-46" target="jeU5gwC4vnSwQ_-FF6oq-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-56" value="中风险" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-46" target="jeU5gwC4vnSwQ_-FF6oq-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-57" value="高风险" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-46" target="jeU5gwC4vnSwQ_-FF6oq-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-47" target="jeU5gwC4vnSwQ_-FF6oq-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-48" target="jeU5gwC4vnSwQ_-FF6oq-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.09;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-49" target="jeU5gwC4vnSwQ_-FF6oq-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-50" target="jeU5gwC4vnSwQ_-FF6oq-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
