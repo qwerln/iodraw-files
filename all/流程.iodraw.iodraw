@@ -67,19 +67,19 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-144" target="jeU5gwC4vnSwQ_-FF6oq-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-144" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-144" value="选择统计维度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;(用户/测评/咨询等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-146" target="jeU5gwC4vnSwQ_-FF6oq-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-146" value="数据查询与汇总" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-148" target="jeU5gwC4vnSwQ_-FF6oq-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-148" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-148" value="生成统计图表&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;(柱状图/折线图等)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-150" target="jeU5gwC4vnSwQ_-FF6oq-152">
