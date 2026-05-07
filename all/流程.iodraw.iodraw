@@ -111,8 +111,20 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-24" value="查看内容详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-26" target="jeU5gwC4vnSwQ_-FF6oq-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-26" value="内容合规性检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-28" target="jeU5gwC4vnSwQ_-FF6oq-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-28" value="是否通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="616" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="786" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
