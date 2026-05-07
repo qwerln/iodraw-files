@@ -99,8 +99,14 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-21" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-22" target="jeU5gwC4vnSwQ_-FF6oq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-22" value="获取待审核内容&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;(短剧/文章)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-24" value="查看内容详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
