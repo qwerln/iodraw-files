@@ -70,8 +70,20 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-84" value="构建用户兴趣画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-86" target="jeU5gwC4vnSwQ_-FF6oq-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-86" value="计算内容匹配度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-88" target="jeU5gwC4vnSwQ_-FF6oq-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-88" value="生成个性化推荐列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-90" value="生成个性化推荐列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="955" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
