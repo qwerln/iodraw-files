@@ -46,12 +46,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-55" value="低风险" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-46" target="jeU5gwC4vnSwQ_-FF6oq-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="91" y="759" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-55" value="低风险" style="startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-46" target="jeU5gwC4vnSwQ_-FF6oq-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-56" value="中风险" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-46" target="jeU5gwC4vnSwQ_-FF6oq-48">
           <mxGeometry relative="1" as="geometry">
