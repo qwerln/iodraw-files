@@ -4,17 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-114" target="jeU5gwC4vnSwQ_-FF6oq-115">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-114" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-115" target="jeU5gwC4vnSwQ_-FF6oq-117">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-115" value="触发事件&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px;&quot;&gt;(预约状态变更/&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px;&quot;&gt;互动/系统消息等)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="610" y="490" width="130" height="80" as="geometry" />
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" target="jeU5gwC4vnSwQ_-FF6oq-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="569.9999999999998" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-117" target="jeU5gwC4vnSwQ_-FF6oq-119">
           <mxGeometry relative="1" as="geometry" />
