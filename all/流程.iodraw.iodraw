@@ -120,10 +120,15 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-28" target="jeU5gwC4vnSwQ_-FF6oq-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jeU5gwC4vnSwQ_-FF6oq-31">
+          <mxGeometry x="-0.1833" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-28" value="是否通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="616" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-30" value="通过审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="786" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
