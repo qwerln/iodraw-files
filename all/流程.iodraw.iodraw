@@ -4,52 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-114">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-114" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" target="jeU5gwC4vnSwQ_-FF6oq-117">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675" y="569.9999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-117" target="jeU5gwC4vnSwQ_-FF6oq-119">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-117" value="生成消息内容" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-119" target="jeU5gwC4vnSwQ_-FF6oq-121">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-119" value="选择推送方式&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px;&quot;&gt;(APP/Web/站内信)" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-121" target="jeU5gwC4vnSwQ_-FF6oq-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-121" value="推送消息" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-123" target="jeU5gwC4vnSwQ_-FF6oq-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-123" value="用户接收并查看" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-125" target="jeU5gwC4vnSwQ_-FF6oq-127">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-125" value="标记已读状态" style="whiteSpace=wrap;html=1;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1096" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-127" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1210" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
