@@ -19,16 +19,16 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-47" value="记录并持续跟踪" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="804" width="143" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-48" value="提醒用户&#xa;关注自身状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-48" value="提醒用户&#xa;关注自身状态" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="213" y="795" width="126" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-49" value="立即预警&#xa;(通知管理员/咨询师)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-49" value="立即预警&#xa;(通知管理员/咨询师)" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="389" y="795" width="178" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-50" value="干预处理/跟进&#xa;(线下联系或线上引导)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-50" value="干预处理/跟进&#xa;(线下联系或线上引导)" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="183" y="911" width="186" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-51" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-51" value="结束" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="229" y="1027" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-43" target="jeU5gwC4vnSwQ_-FF6oq-44">
