@@ -64,8 +64,14 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-83" value="收集用户数据&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;(测评/浏览/行为)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-84" value="收集用户数据&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;(测评/浏览/行为)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-84" target="jeU5gwC4vnSwQ_-FF6oq-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-84" value="构建用户兴趣画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-86" value="计算内容匹配度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="711" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
