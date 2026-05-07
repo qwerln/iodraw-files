@@ -128,8 +128,14 @@
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-28" value="是否通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="616" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-30" target="jeU5gwC4vnSwQ_-FF6oq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jeU5gwC4vnSwQ_-FF6oq-30" value="通过审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="786" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-33" value="通过审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
