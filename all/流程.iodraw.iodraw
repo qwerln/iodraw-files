@@ -4,6 +4,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-129" value="9. 数据统计分析流程（管理员）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="57" y="280" width="126" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-130" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="92" y="305" width="56" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-131" value="选择统计维度&#xa;(用户/测评/咨询等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="413" width="201" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-132" value="数据查询与汇总" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="33" y="529" width="174" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-133" value="生成统计图表&#xa;(柱状图/折线图等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="628" width="192" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-134" value="显示分析结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="42" y="744" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-135" value="导出报表（可选）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="842" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-136" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="92" y="941" width="57" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-130" target="jeU5gwC4vnSwQ_-FF6oq-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-131" target="jeU5gwC4vnSwQ_-FF6oq-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-132" target="jeU5gwC4vnSwQ_-FF6oq-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-133" target="jeU5gwC4vnSwQ_-FF6oq-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-134" target="jeU5gwC4vnSwQ_-FF6oq-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-135" target="jeU5gwC4vnSwQ_-FF6oq-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
