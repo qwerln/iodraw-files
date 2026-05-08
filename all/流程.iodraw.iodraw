@@ -1,48 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7FwZf4STplkagR4MlUtS">
-    <mxGraphModel dx="1500" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-172" target="jeU5gwC4vnSwQ_-FF6oq-173">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-172" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="244" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-173" target="jeU5gwC4vnSwQ_-FF6oq-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-173" value="选择用户/角色" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-175" target="jeU5gwC4vnSwQ_-FF6oq-177">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-175" value="设置权限&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 16px;&quot;&gt;(数据/功能等)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-177" target="jeU5gwC4vnSwQ_-FF6oq-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-177" value="保存权限配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="601" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-179" target="jeU5gwC4vnSwQ_-FF6oq-181">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-179" value="更新权限到系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="jeU5gwC4vnSwQ_-FF6oq-181" target="jeU5gwC4vnSwQ_-FF6oq-183">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-181" value="记录操作日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="852" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jeU5gwC4vnSwQ_-FF6oq-183" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
