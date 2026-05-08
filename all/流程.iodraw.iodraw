@@ -300,7 +300,11 @@
           </mxCell>
         </UserObject>
         <mxCell id="F_XLVmYzRDbHl9unNEaQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F_XLVmYzRDbHl9unNEaQ-13" target="F_XLVmYzRDbHl9unNEaQ-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="1054" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
