@@ -83,7 +83,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="F_XLVmYzRDbHl9unNEaQ-194" value="低风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F_XLVmYzRDbHl9unNEaQ-187">
+        <mxCell id="F_XLVmYzRDbHl9unNEaQ-194" value="低风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="F_XLVmYzRDbHl9unNEaQ-187">
           <mxGeometry x="-0.4261" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -106,7 +106,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="F_XLVmYzRDbHl9unNEaQ-195" value="高风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F_XLVmYzRDbHl9unNEaQ-189">
+        <mxCell id="F_XLVmYzRDbHl9unNEaQ-195" value="高风险" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="F_XLVmYzRDbHl9unNEaQ-189">
           <mxGeometry x="-0.4901" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
