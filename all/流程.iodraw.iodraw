@@ -291,8 +291,7 @@
               <mxPoint x="60" y="251" as="offset" />
               <Array as="points">
                 <mxPoint x="169.96" y="650" />
-                <mxPoint x="169.96" y="350" />
-                <mxPoint x="180" y="340" />
+                <mxPoint x="170" y="340" />
               </Array>
             </mxGeometry>
           </mxCell>
