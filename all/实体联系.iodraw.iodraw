@@ -5,7 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jZ4HF10XjfYng5lePLdS-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-6" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
