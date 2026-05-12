@@ -7,7 +7,7 @@
         <mxCell id="jZ4HF10XjfYng5lePLdS-1" value="会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jZ4HF10XjfYng5lePLdS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-2" target="jZ4HF10XjfYng5lePLdS-19">
+        <mxCell id="jZ4HF10XjfYng5lePLdS-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-2" target="jZ4HF10XjfYng5lePLdS-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-2" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
           <mxGeometry x="185" y="-50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-19" value="下单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-20" target="jZ4HF10XjfYng5lePLdS-6">
           <mxGeometry relative="1" as="geometry" />
