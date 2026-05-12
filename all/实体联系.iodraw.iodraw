@@ -136,10 +136,10 @@
         <mxCell id="jZ4HF10XjfYng5lePLdS-80" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="190" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jZ4HF10XjfYng5lePLdS-81" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZ4HF10XjfYng5lePLdS-81" value="售价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jZ4HF10XjfYng5lePLdS-82" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZ4HF10XjfYng5lePLdS-82" value="原价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-83" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
