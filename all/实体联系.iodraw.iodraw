@@ -331,7 +331,7 @@
         <mxCell id="jZ4HF10XjfYng5lePLdS-123" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jZ4HF10XjfYng5lePLdS-124" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZ4HF10XjfYng5lePLdS-124" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-125" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
