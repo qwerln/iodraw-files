@@ -13,7 +13,7 @@
         <mxCell id="jZ4HF10XjfYng5lePLdS-3" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="470" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jZ4HF10XjfYng5lePLdS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-4" target="jZ4HF10XjfYng5lePLdS-7">
+        <mxCell id="jZ4HF10XjfYng5lePLdS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-4" target="jZ4HF10XjfYng5lePLdS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
