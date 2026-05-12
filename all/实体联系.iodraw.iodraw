@@ -23,7 +23,7 @@
           <mxGeometry x="180" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-5" value="预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="80" width="90" height="50" as="geometry" />
+          <mxGeometry x="-150" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-6" value="积分记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="590" width="90" height="50" as="geometry" />
@@ -49,8 +49,14 @@
         <mxCell id="jZ4HF10XjfYng5lePLdS-13" value="包含于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="265" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-16" target="jZ4HF10XjfYng5lePLdS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ4HF10XjfYng5lePLdS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jZ4HF10XjfYng5lePLdS-16" target="jZ4HF10XjfYng5lePLdS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jZ4HF10XjfYng5lePLdS-16" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="65" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="65" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
