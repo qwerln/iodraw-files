@@ -155,17 +155,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="Background" id="3tlm7RDY-LKMr9jkreuA-28">
-          <mxCell style="vsdxID=2010465;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3tlm7RDY-LKMr9jkreuA-13">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="116" as="offset" />
-              <Array as="points">
-                <mxPoint x="410" y="891" />
-              </Array>
-              <mxPoint x="408" y="891" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Background" id="3tlm7RDY-LKMr9jkreuA-29">
           <mxCell style="vsdxID=2010466;edgeStyle=none;startArrow=none;endArrow=classic;startSize=5;endSize=5;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3tlm7RDY-LKMr9jkreuA-13">
             <mxGeometry relative="1" as="geometry">
