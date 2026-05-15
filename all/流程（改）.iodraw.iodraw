@@ -111,6 +111,9 @@
         <mxCell id="U8lRsvLMIroNAPOo9XV_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U8lRsvLMIroNAPOo9XV_-13" target="U8lRsvLMIroNAPOo9XV_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U8lRsvLMIroNAPOo9XV_-41" value="生成测评报告" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
