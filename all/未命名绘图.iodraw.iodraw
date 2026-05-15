@@ -308,7 +308,13 @@
           </mxCell>
         </UserObject>
         <mxCell id="GIKzaCwNAofIe2VCCAOq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.244;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GIKzaCwNAofIe2VCCAOq-56" target="GIKzaCwNAofIe2VCCAOq-75">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="403" />
+              <mxPoint x="320" y="500" />
+              <mxPoint x="478" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
