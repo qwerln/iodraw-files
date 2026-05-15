@@ -291,8 +291,10 @@
             <mxPoint x="420" y="462" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIKzaCwNAofIe2VCCAOq-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GIKzaCwNAofIe2VCCAOq-70" target="GIKzaCwNAofIe2VCCAOq-52">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GIKzaCwNAofIe2VCCAOq-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GIKzaCwNAofIe2VCCAOq-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="378" y="490" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
